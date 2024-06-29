@@ -1,3 +1,6 @@
 [submodule "include/ZPYConst"]
 	path = include/ZPYConst
 	url = https://github.com/ZPYin/ZPYConst.git
+[submodule "include/Radiosonde"]
+	path = include/Radiosonde
+	url = git@github.com:ZPYin/Radiosonde.git
