@@ -4,3 +4,6 @@
 [submodule "include/Radiosonde"]
 	path = include/Radiosonde
 	url = git@github.com:ZPYin/Radiosonde.git
+[submodule "include/export_fig"]
+	path = include/export_fig
+	url = https://github.com/altmany/export_fig.git
